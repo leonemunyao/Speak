@@ -1,7 +1,8 @@
 body{
     width: 50%;
     margin: 0  auto;
-    background: rgb(5, 2, 2);
+    background: url(./Images/Voice.jpeg) no-repeat;
+    background-size: cover;
     margin-top: 1rem;
 }
 
